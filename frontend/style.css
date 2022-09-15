@@ -39,3 +39,14 @@
 .bottom-circle {
     bottom: 0;
 }
+
+.cats img {
+    width: 200px;
+    margin-top: 10px;
+}
+
+.cats {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
